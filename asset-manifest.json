@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shivam-projects/NewsApp-React.git/static/css/main.dc4d6ff2.css",
+    "main.js": "/shivam-projects/NewsApp-React.git/static/js/main.78c98064.js",
+    "static/js/592.d53f2e83.chunk.js": "/shivam-projects/NewsApp-React.git/static/js/592.d53f2e83.chunk.js",
+    "static/media/loading.gif": "/shivam-projects/NewsApp-React.git/static/media/loading.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/shivam-projects/NewsApp-React.git/index.html",
+    "main.dc4d6ff2.css.map": "/shivam-projects/NewsApp-React.git/static/css/main.dc4d6ff2.css.map",
+    "main.78c98064.js.map": "/shivam-projects/NewsApp-React.git/static/js/main.78c98064.js.map",
+    "592.d53f2e83.chunk.js.map": "/shivam-projects/NewsApp-React.git/static/js/592.d53f2e83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.78c98064.js"
+  ]
+}
