@@ -13,7 +13,7 @@ const NewsItem = (props) => {
           <img
             src={
               !imageUrl
-                ? "https://www.hindustantimes.com/ht-img/img/2024/02/17/1600x900/dangal_1708168098933_1708168099245.jpg"
+                ? "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3018,w_5365,x_0,y_361/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1707095348/GettyImages-1978655641_oenleg"
                 : imageUrl
             }
             className="card-img-top"
