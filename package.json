@@ -14,7 +14,6 @@
     "react-top-loading-bar": "^2.3.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/shivam-projects/NewsApp-React.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
